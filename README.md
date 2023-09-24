@@ -18,9 +18,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
 
 
 ---
-
-
-_🥰 Thank you for taking the time to read this far! Your attention is greatly appreciated. <br/> **Incase you're interested, Join me on this voyage for more insightful content!!**_
-
-
 <!-- End of README.md -->
