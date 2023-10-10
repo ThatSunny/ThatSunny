@@ -16,7 +16,8 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>    
           
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny2788&theme=dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny2788&theme=dark"  width="10000" height="300">
+
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
