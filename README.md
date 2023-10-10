@@ -12,12 +12,11 @@
 
 
 # 👨🏻‍💻 Languages:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/kotlin/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="35" height="40" /></a> 
+<a href="https://www.w3schools.com/kotlin/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>    
           
-
-
----
+# 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny2788&theme=dark)
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
