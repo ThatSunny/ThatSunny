@@ -21,7 +21,7 @@
           
           
 # 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny2788&theme=dark"  width="10000" height="300">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunny2788&theme=dark"  width="5000" height="300">
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
