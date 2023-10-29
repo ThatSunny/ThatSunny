@@ -13,12 +13,13 @@
 • GitHub is my way of giving back. I shall soon be contributing to projects that matter to me and also support causes I'm passionate about.
 
 # 👨🏻‍💻 Languages:
-<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img src="resources/Tech Stack/C.png" alt="c" width="60" height="60" /></a> -->
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
-          <img src="resources/Tech Stack/Cplusplus.png" width="60" height="60"/></a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
           <img src="resources/Tech Stack/Kotlin.jpg" alt="cplusplus" width="60" height="60" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
+
           
           
 # 📊 GitHub Stats:
