@@ -36,7 +36,7 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunny2788&theme=dark" width="700"></td>
   </tr>
 </table>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sunny2788&theme=dark&fire=79FF97&ring=79FF97&currStreakLabel=79FF97" width="2000">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=sunny2788&theme=dark&fire=79FF97&ring=79FF97&currStreakLabel=79FF97&&hide_border=true" width="2000"> -->
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
