@@ -29,7 +29,7 @@
 
 
 # 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsunny&theme=dark"  width="1200">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsunny&theme=dark" width="1200">
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thatsunny&theme=dark&utcOffset=8" width="700"></td>
