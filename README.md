@@ -19,7 +19,7 @@
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="resources/Tech Stack/Kotlin.jpg" alt="cplusplus" width="60" height="60" /></a>
+  <img src="resources/Tech Stack/Kotlin.jpg" alt="kotlin" width="60" height="60" /></a>
 <a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
