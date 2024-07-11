@@ -40,6 +40,6 @@
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
-![](https://komarev.com/ghpvc/?username=ThatSunny&color=grey&style=flat-square&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=ThatSunny&color=grey&&base=800&style=flat-square&abbreviated=true)
 
 <!-- End of README.md -->
